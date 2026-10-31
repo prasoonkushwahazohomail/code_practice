@@ -1,4 +1,4 @@
-# Check Whether an Array Is Sorted or Not
+# Check Whether an Array Is Sorted(in ascending order) or Not
 
 ## Problem Statement
 
@@ -10,7 +10,7 @@ order or not.
 1.  **Start.**
 2.  Take an array as input from the user.
 3.  Initialize a Boolean variable `isSorted` with `true`.
-4.  Iterate through the array from index `1` to `array.length - 1`.
+4.  Iterate through the array from index `1` to `array.length`.
 5.  Compare the current element with the previous element:
     -   If `array[i] < array[i - 1]`:
         -   Set `isSorted = false`.
