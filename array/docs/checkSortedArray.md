@@ -28,7 +28,7 @@ order or not.
 
 ## Screenshot
 
-![Check Sorted Array](./screenshot/chek_sorted_array.png)
+![Check Sorted Array](./screenshots/check_sorted_array.png)
 
 > Make sure the screenshot exists at `screenshot/chek_sorted_array.png`
 > in the repository. Update the path if your filename or folder is
